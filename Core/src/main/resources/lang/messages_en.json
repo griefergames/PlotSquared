@@ -56,7 +56,7 @@
   "border.denied": "<prefix><red>You are outside the current map border.</red>",
   "border.bypass.exited": "<prefix><red>You have bypassed the current map border area.</red>",
   "border.bypass.entered": "<prefix><gray>You have re-entered the current map border area.</gray>",
-  "worldedit.worldedit_bypass": "<prefix><gray><italic>To bypass your restrictions use </gray><dark_aqua><command></dark_aqua></italic>",
+  "worldedit.worldedit_bypass": "<prefix><gray>To bypass your restrictions use </gray><yellow><command></yellow>",
   "worldedit.worldedit_bypassed": "<prefix><gray>Currently bypassing WorldEdit restriction.</gray>",
   "gamemode.gamemode_was_bypassed": "<prefix><gold>You bypassed the gamemode (</gold><gray><gamemode></gray><gold>) <gold>set for </gold><gray><plot>.</gray>",
   "height.height_limit": "<prefix><gold>This plot area has building height limits: Min height: </gold><gray><minheight></gray><gold>, Max height: </gold><gray><maxheight></gray>",
